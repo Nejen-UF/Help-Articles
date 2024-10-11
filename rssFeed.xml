@@ -3,9 +3,3402 @@
    <channel>
       <title>Uberflip Help Center Articles</title>
       <link>https://help.uberflip.com/hc/en-us</link>
-      <description>Latest articles from Uberflip Help Center</description>
+      <description>Latest articles from Uberflip Help 
+Center</description>
       <language>en-us</language>
-      <lastBuildDate>Fri, 11 Oct 2024 20:44:39 GMT</lastBuildDate>
-      <atom:link href="https://example.com/rssFeed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 11 Oct 2024 20:52:15 GMT</lastBuildDate>
+      <atom:link href="https://example.com/rssFeed.xml" rel="self" type="application/rss+xml"/>      <item>
+         <title>Smart Filters using deleted tags are not running</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/27252738861325-Smart-Filters-using-deleted-tags-are-not-running</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">27252738861325</guid>
+         <pubDate>Mon, 03 Jun 2024 16:26:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Edit content Items</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/27116424565773-Edit-content-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">27116424565773</guid>
+         <pubDate>Tue, 28 May 2024 22:37:53 GMT</pubDate>
+      </item>
+      <item>
+         <title>Media: Organize your image library using folders, collections, and tags</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/26985437622669-Media-Organize-your-image-library-using-folders-collections-and-tags</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">26985437622669</guid>
+         <pubDate>Thu, 23 May 2024 18:09:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Media: Crop images</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25430226849549-Media-Crop-images</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25430226849549</guid>
+         <pubDate>Thu, 28 Mar 2024 19:57:21 GMT</pubDate>
+      </item>
+      <item>
+         <title>Media: Upload and use images in Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25430198637197-Media-Upload-and-use-images-in-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25430198637197</guid>
+         <pubDate>Thu, 28 Mar 2024 19:56:46 GMT</pubDate>
+      </item>
+      <item>
+         <title>Media: Image management in Uberflip explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25430157641741-Media-Image-management-in-Uberflip-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25430157641741</guid>
+         <pubDate>Thu, 28 Mar 2024 19:54:31 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create a new blog post</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25430088305677-Create-a-new-blog-post</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25430088305677</guid>
+         <pubDate>Thu, 28 Mar 2024 19:53:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>The Image Migrator app is being retired [2024]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/20903973796365-The-Image-Migrator-app-is-being-retired-2024</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">20903973796365</guid>
+         <pubDate>Tue, 31 Oct 2023 22:36:55 GMT</pubDate>
+      </item>
+      <item>
+         <title>Force users to log into Uberflip using single sign-on (SSO)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/20865216012301-Force-users-to-log-into-Uberflip-using-single-sign-on-SSO</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">20865216012301</guid>
+         <pubDate>Mon, 30 Oct 2023 22:51:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist + Salesforce: Using the Sales Assist app in SFDC</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/18131368602509-Sales-Assist-Salesforce-Using-the-Sales-Assist-app-in-SFDC</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">18131368602509</guid>
+         <pubDate>Tue, 01 Aug 2023 18:05:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist + Salesforce: Set up the Sales Assist app in Salesforce as an admin</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/18130956008717-Sales-Assist-Salesforce-Set-up-the-Sales-Assist-app-in-Salesforce-as-an-admin</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">18130956008717</guid>
+         <pubDate>Tue, 01 Aug 2023 17:55:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Announcement: &quot;Sales Streams&quot; are now called &quot;Digital Sales Rooms&quot; in Uberflip [July 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/17317687236621-Announcement-Sales-Streams-are-now-called-Digital-Sales-Rooms-in-Uberflip-July-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">17317687236621</guid>
+         <pubDate>Tue, 04 Jul 2023 19:10:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>Get started: What is Uberflip?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/16545169557901-Get-started-What-is-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">16545169557901</guid>
+         <pubDate>Thu, 08 Jun 2023 16:56:08 GMT</pubDate>
+      </item>
+      <item>
+         <title>5 Uberflip features that are being retired (Nov. 1st, 2023)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/15015536441229-5-Uberflip-features-that-are-being-retired-Nov-1st-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">15015536441229</guid>
+         <pubDate>Wed, 19 Apr 2023 22:02:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>SlideShare Streams are being retired [Nov. 2023] </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14930427293709-SlideShare-Streams-are-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14930427293709</guid>
+         <pubDate>Mon, 17 Apr 2023 19:27:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Twitter Stream support has ended [April 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14929543582477-Twitter-Stream-support-has-ended-April-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14929543582477</guid>
+         <pubDate>Mon, 17 Apr 2023 19:08:53 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbot is being retired [Nov. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14929481971341-Flipbot-is-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14929481971341</guid>
+         <pubDate>Mon, 17 Apr 2023 19:08:16 GMT</pubDate>
+      </item>
+      <item>
+         <title>iFrame Embed is being retired [Nov. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14929474473613-iFrame-Embed-is-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14929474473613</guid>
+         <pubDate>Mon, 17 Apr 2023 19:07:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>The &quot;Menu Style&quot; setting is being retired [Nov. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14929440762381-The-Menu-Style-setting-is-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14929440762381</guid>
+         <pubDate>Mon, 17 Apr 2023 19:06:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hubs Lab is being retired [Nov. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14539608186893-Hubs-Lab-is-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14539608186893</guid>
+         <pubDate>Mon, 03 Apr 2023 17:33:29 GMT</pubDate>
+      </item>
+      <item>
+         <title>Using Custom Code: considerations and warnings</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/13648673352333-Using-Custom-Code-considerations-and-warnings</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">13648673352333</guid>
+         <pubDate>Thu, 02 Mar 2023 19:30:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Acquisition channel data changes in UFA [Jan. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/11935627027725-Acquisition-channel-data-changes-in-UFA-Jan-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">11935627027725</guid>
+         <pubDate>Tue, 03 Jan 2023 18:33:22 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add and edit Stream sections in a Marketing Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/10861402352525-Add-and-edit-Stream-sections-in-a-Marketing-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">10861402352525</guid>
+         <pubDate>Wed, 23 Nov 2022 17:36:27 GMT</pubDate>
+      </item>
+      <item>
+         <title>Archive a Stream or Digital Sales Room</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/10521331650573-Archive-a-Stream-or-Digital-Sales-Room</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">10521331650573</guid>
+         <pubDate>Wed, 09 Nov 2022 23:32:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Analytics Enrichment features explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/10038158221709-Analytics-Enrichment-features-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">10038158221709</guid>
+         <pubDate>Thu, 20 Oct 2022 23:34:59 GMT</pubDate>
+      </item>
+      <item>
+         <title>Disable or delete a Flipbook</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/9984366864141-Disable-or-delete-a-Flipbook</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">9984366864141</guid>
+         <pubDate>Tue, 18 Oct 2022 23:28:19 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed Uberflip Analytics into other tools using iframe</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/9478513016589-Embed-Uberflip-Analytics-into-other-tools-using-iframe</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">9478513016589</guid>
+         <pubDate>Tue, 27 Sep 2022 19:17:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>Changes to new and returning visitor data in UFA [Aug. 2022]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8494117174925-Changes-to-new-and-returning-visitor-data-in-UFA-Aug-2022</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8494117174925</guid>
+         <pubDate>Wed, 17 Aug 2022 19:39:43 GMT</pubDate>
+      </item>
+      <item>
+         <title>Import content into Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8469735684621-Import-content-into-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8469735684621</guid>
+         <pubDate>Tue, 16 Aug 2022 21:36:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>Item tags and Tag Groups explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8129396439053-Item-tags-and-Tag-Groups-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8129396439053</guid>
+         <pubDate>Tue, 02 Aug 2022 19:50:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Enhanced Tag Manager: user guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8129118360077-Enhanced-Tag-Manager-user-guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8129118360077</guid>
+         <pubDate>Tue, 02 Aug 2022 19:41:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add a user to your Uberflip account</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/7288948121229-Add-a-user-to-your-Uberflip-account</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">7288948121229</guid>
+         <pubDate>Wed, 29 Jun 2022 14:50:05 GMT</pubDate>
+      </item>
+      <item>
+         <title>Announcement: The Uberflip Chrome extension &amp; Outlook add-in have been retired [Dec. 2022] </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/7090817135629-Announcement-The-Uberflip-Chrome-extension-Outlook-add-in-have-been-retired-Dec-2022</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">7090817135629</guid>
+         <pubDate>Tue, 21 Jun 2022 15:43:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Auto-archive inactive DSRs and Items</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/6999040063757-Sales-Assist-Auto-archive-inactive-DSRs-and-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">6999040063757</guid>
+         <pubDate>Fri, 17 Jun 2022 10:58:04 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create or edit a custom Hub menu</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/6275055448845-Create-or-edit-a-custom-Hub-menu</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">6275055448845</guid>
+         <pubDate>Mon, 16 May 2022 20:13:15 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create and share a Marketing Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/6214460126349-Create-and-share-a-Marketing-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">6214460126349</guid>
+         <pubDate>Fri, 13 May 2022 17:35:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>View a Stream or Item analytics in the Stream/Item editor</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5665837787533-View-a-Stream-or-Item-analytics-in-the-Stream-Item-editor</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5665837787533</guid>
+         <pubDate>Wed, 20 Apr 2022 17:33:49 GMT</pubDate>
+      </item>
+      <item>
+         <title>Announcement: Retiring SnapApp [Aug. 2022]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5649118635405-Announcement-Retiring-SnapApp-Aug-2022</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5649118635405</guid>
+         <pubDate>Tue, 19 Apr 2022 22:25:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Feature Items in a Marketing or Source Stream (and your Hub)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4746822903693-Feature-Items-in-a-Marketing-or-Source-Stream-and-your-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4746822903693</guid>
+         <pubDate>Fri, 11 Mar 2022 23:53:42 GMT</pubDate>
+      </item>
+      <item>
+         <title>Stream functionality options explained </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4607063680781-Stream-functionality-options-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4607063680781</guid>
+         <pubDate>Fri, 04 Mar 2022 23:11:22 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbot: What is Flipbot?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4492714153613-Flipbot-What-is-Flipbot</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4492714153613</guid>
+         <pubDate>Thu, 24 Feb 2022 18:47:27 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Weekly performance email for admins</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4440660474381-Sales-Assist-Weekly-performance-email-for-admins</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4440660474381</guid>
+         <pubDate>Thu, 17 Feb 2022 19:39:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Set up and run Export and special bulk actions</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4422794535309-Bulk-Task-Smasher-Set-up-and-run-Export-and-special-bulk-actions</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4422794535309</guid>
+         <pubDate>Mon, 24 Jan 2022 22:50:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Set up and run Create, Update, and Delete bulk actions</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4422781484557-Bulk-Task-Smasher-Set-up-and-run-Create-Update-and-Delete-bulk-actions</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4422781484557</guid>
+         <pubDate>Mon, 24 Jan 2022 22:49:58 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Best practices for use</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4422151590797-Bulk-Task-Smasher-Best-practices-for-use</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4422151590797</guid>
+         <pubDate>Thu, 20 Jan 2022 20:54:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Configure permissions to control access to app features</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4421919862925-Bulk-Task-Smasher-Configure-permissions-to-control-access-to-app-features</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4421919862925</guid>
+         <pubDate>Wed, 19 Jan 2022 19:01:15 GMT</pubDate>
+      </item>
+      <item>
+         <title>Update Uberflip Marketplace apps</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4420855021837-Update-Uberflip-Marketplace-apps</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4420855021837</guid>
+         <pubDate>Fri, 14 Jan 2022 22:15:34 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Stream Purpose ID codes</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4420439969549-Bulk-Task-Smasher-Stream-Purpose-ID-codes</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4420439969549</guid>
+         <pubDate>Wed, 12 Jan 2022 23:23:38 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4420438749197-Bulk-Task-Smasher-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4420438749197</guid>
+         <pubDate>Wed, 12 Jan 2022 23:02:41 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: What does the warning about the Excel character limit mean?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4411353508109-Bulk-Task-Smasher-What-does-the-warning-about-the-Excel-character-limit-mean</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4411353508109</guid>
+         <pubDate>Thu, 14 Oct 2021 22:44:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add an internal name to a Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4408737293709-Add-an-internal-name-to-a-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4408737293709</guid>
+         <pubDate>Tue, 07 Sep 2021 20:44:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Streams explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4407951638669-Uberflip-Streams-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4407951638669</guid>
+         <pubDate>Thu, 26 Aug 2021 21:31:48 GMT</pubDate>
+      </item>
+      <item>
+         <title>Where can I find Uberflip&apos;s policies and legal documentation?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4406470667405-Where-can-I-find-Uberflip-s-policies-and-legal-documentation</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4406470667405</guid>
+         <pubDate>Wed, 04 Aug 2021 19:23:12 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add custom URL paths (vanity URLs) to Streams or DSRs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4403569054733-Add-custom-URL-paths-vanity-URLs-to-Streams-or-DSRs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4403569054733</guid>
+         <pubDate>Tue, 22 Jun 2021 19:54:39 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embedded content displays an error message</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360061553372-Embedded-content-displays-an-error-message</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360061553372</guid>
+         <pubDate>Wed, 26 May 2021 22:00:33 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Create separate environments for different user groups</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360060350751-Sales-Assist-Create-separate-environments-for-different-user-groups</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360060350751</guid>
+         <pubDate>Fri, 23 Apr 2021 21:07:41 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Configure permissions to control access to app features</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360059650691-Sales-Assist-Configure-permissions-to-control-access-to-app-features</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360059650691</guid>
+         <pubDate>Fri, 09 Apr 2021 15:02:44 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Get started as a Sales User</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360057767692-Sales-Assist-Get-started-as-a-Sales-User</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360057767692</guid>
+         <pubDate>Wed, 10 Mar 2021 17:09:39 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Admin Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360057767632-Sales-Assist-Admin-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360057767632</guid>
+         <pubDate>Wed, 10 Mar 2021 17:09:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Migrate a Pardot integration to a Salesforce SSO account</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360055957252-Migrate-a-Pardot-integration-to-a-Salesforce-SSO-account</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360055957252</guid>
+         <pubDate>Tue, 02 Feb 2021 16:59:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>Why can&apos;t I see the &quot;Explore From Here&quot; option in Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360053118192-Why-can-t-I-see-the-Explore-From-Here-option-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360053118192</guid>
+         <pubDate>Thu, 10 Dec 2020 15:53:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Use an external consent management platform (CMP) to manage cookie consent on your Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360052931871-Use-an-external-consent-management-platform-CMP-to-manage-cookie-consent-on-your-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360052931871</guid>
+         <pubDate>Tue, 24 Nov 2020 17:57:55 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can&apos;t find scheduled reports in Uberflip Analytics</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360051584372-Can-t-find-scheduled-reports-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360051584372</guid>
+         <pubDate>Tue, 03 Nov 2020 20:23:04 GMT</pubDate>
+      </item>
+      <item>
+         <title>Metadata tab is missing in Edit Article view</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360050478272-Metadata-tab-is-missing-in-Edit-Article-view</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360050478272</guid>
+         <pubDate>Tue, 13 Oct 2020 20:53:44 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbooks (Content &gt; Analytics)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049353592-Flipbooks-Content-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049353592</guid>
+         <pubDate>Thu, 17 Sep 2020 15:32:44 GMT</pubDate>
+      </item>
+      <item>
+         <title>Integrate Google Analytics through Google Tag Manager</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049611731-Integrate-Google-Analytics-through-Google-Tag-Manager</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049611731</guid>
+         <pubDate>Mon, 14 Sep 2020 15:15:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Images missing when sharing to Twitter</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049034752-Images-missing-when-sharing-to-Twitter</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049034752</guid>
+         <pubDate>Thu, 10 Sep 2020 21:19:24 GMT</pubDate>
+      </item>
+      <item>
+         <title> Filter-Only (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049007972--Filter-Only-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049007972</guid>
+         <pubDate>Thu, 10 Sep 2020 16:33:05 GMT</pubDate>
+      </item>
+      <item>
+         <title>Account ID (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044682651-Account-ID-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044682651</guid>
+         <pubDate>Mon, 08 Jun 2020 19:47:06 GMT</pubDate>
+      </item>
+      <item>
+         <title>Supported Browsers and Operating Systems</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360043402071-Supported-Browsers-and-Operating-Systems</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360043402071</guid>
+         <pubDate>Mon, 11 May 2020 16:43:14 GMT</pubDate>
+      </item>
+      <item>
+         <title>Configure settings for Uberflip Marketplace apps</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360042582411-Configure-settings-for-Uberflip-Marketplace-apps</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360042582411</guid>
+         <pubDate>Tue, 21 Apr 2020 21:14:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I delete data from Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360042413951-Can-I-delete-data-from-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360042413951</guid>
+         <pubDate>Thu, 16 Apr 2020 21:05:42 GMT</pubDate>
+      </item>
+      <item>
+         <title>Change the default Hub you see when you log in</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360041155612-Change-the-default-Hub-you-see-when-you-log-in</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360041155612</guid>
+         <pubDate>Fri, 27 Mar 2020 19:15:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>JavaScript custom code is not working on Streams with a personalizer app enabled</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040715212-JavaScript-custom-code-is-not-working-on-Streams-with-a-personalizer-app-enabled</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040715212</guid>
+         <pubDate>Wed, 18 Mar 2020 21:23:51 GMT</pubDate>
+      </item>
+      <item>
+         <title>Change the owner of a Stream or DSR</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040516852-Change-the-owner-of-a-Stream-or-DSR</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040516852</guid>
+         <pubDate>Fri, 13 Mar 2020 16:38:54 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Platform Cookies Explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360039954991-Uberflip-Platform-Cookies-Explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360039954991</guid>
+         <pubDate>Tue, 18 Feb 2020 21:37:30 GMT</pubDate>
+      </item>
+      <item>
+         <title>Where can I find information about new features in Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360039008092-Where-can-I-find-information-about-new-features-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360039008092</guid>
+         <pubDate>Fri, 31 Jan 2020 19:15:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I create my own Content Types in Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038743471-Can-I-create-my-own-Content-Types-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038743471</guid>
+         <pubDate>Mon, 13 Jan 2020 15:12:11 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I see Account or visitor data in Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038320752-Can-I-see-Account-or-visitor-data-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038320752</guid>
+         <pubDate>Fri, 10 Jan 2020 20:25:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>How is Uberflip Analytics different from Google Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038306732-How-is-Uberflip-Analytics-different-from-Google-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038306732</guid>
+         <pubDate>Fri, 10 Jan 2020 14:20:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Error: &quot;Form ID Not Found&quot; when connecting an Eloqua Form to a Form CTA</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038607691-Error-Form-ID-Not-Found-when-connecting-an-Eloqua-Form-to-a-Form-CTA</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038607691</guid>
+         <pubDate>Wed, 08 Jan 2020 21:09:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Best Practices for Flipbooks SEO</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360037703151-Best-Practices-for-Flipbooks-SEO</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360037703151</guid>
+         <pubDate>Mon, 09 Dec 2019 15:34:23 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create Multi-Language Links Between Hubs, Streams, and Items</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360035196932-Create-Multi-Language-Links-Between-Hubs-Streams-and-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360035196932</guid>
+         <pubDate>Fri, 25 Oct 2019 17:53:46 GMT</pubDate>
+      </item>
+      <item>
+         <title>How many tags can be added to an Item?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360035055912-How-many-tags-can-be-added-to-an-Item</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360035055912</guid>
+         <pubDate>Tue, 22 Oct 2019 15:09:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embedded CTA brings in on-page apps</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360035297651-Embedded-CTA-brings-in-on-page-apps</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360035297651</guid>
+         <pubDate>Thu, 17 Oct 2019 16:08:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can&apos;t find ACS URL for SSO Setup</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360032729372-Can-t-find-ACS-URL-for-SSO-Setup</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360032729372</guid>
+         <pubDate>Thu, 29 Aug 2019 17:33:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Switch between live and staging versions of an in-development Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360032870191-Switch-between-live-and-staging-versions-of-an-in-development-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360032870191</guid>
+         <pubDate>Fri, 23 Aug 2019 16:08:07 GMT</pubDate>
+      </item>
+      <item>
+         <title>Define a Custom Lead Source Value for Marketo</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360030545852-Define-a-Custom-Lead-Source-Value-for-Marketo</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360030545852</guid>
+         <pubDate>Thu, 11 Jul 2019 15:36:35 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed a Marketo Form into a Hub Item</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360030510912-Embed-a-Marketo-Form-into-a-Hub-Item</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360030510912</guid>
+         <pubDate>Wed, 10 Jul 2019 20:38:50 GMT</pubDate>
+      </item>
+      <item>
+         <title>Get started with Digital Sales Rooms (DSRs) in Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360030087932-Get-started-with-Digital-Sales-Rooms-DSRs-in-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360030087932</guid>
+         <pubDate>Thu, 04 Jul 2019 15:44:34 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hide a Marketing or Source Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029676452-Hide-a-Marketing-or-Source-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029676452</guid>
+         <pubDate>Thu, 27 Jun 2019 18:33:19 GMT</pubDate>
+      </item>
+      <item>
+         <title>Reference: Uberflip IP Addresses</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029634752-Reference-Uberflip-IP-Addresses</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029634752</guid>
+         <pubDate>Wed, 26 Jun 2019 19:35:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Customize the content on your Hub&apos;s homepage</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029327532-Customize-the-content-on-your-Hub-s-homepage</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029327532</guid>
+         <pubDate>Tue, 18 Jun 2019 19:03:10 GMT</pubDate>
+      </item>
+      <item>
+         <title>Use and manage Item tags (and Tag Groups)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029638391-Use-and-manage-Item-tags-and-Tag-Groups</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029638391</guid>
+         <pubDate>Tue, 18 Jun 2019 17:34:01 GMT</pubDate>
+      </item>
+      <item>
+         <title>Replace an Entire Flipbook</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029166552-Replace-an-Entire-Flipbook</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029166552</guid>
+         <pubDate>Thu, 13 Jun 2019 15:32:33 GMT</pubDate>
+      </item>
+      <item>
+         <title>Replace a Page in a Flipbook</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029126072-Replace-a-Page-in-a-Flipbook</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029126072</guid>
+         <pubDate>Wed, 12 Jun 2019 18:21:18 GMT</pubDate>
+      </item>
+      <item>
+         <title>Customize Hub page UI text or language with Custom Labels</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028690851-Customize-Hub-page-UI-text-or-language-with-Custom-Labels</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028690851</guid>
+         <pubDate>Wed, 22 May 2019 16:01:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Duplicate Items showing in Stream on Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028380772-Duplicate-Items-showing-in-Stream-on-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028380772</guid>
+         <pubDate>Wed, 22 May 2019 14:28:01 GMT</pubDate>
+      </item>
+      <item>
+         <title>What does &quot;crawlable&quot; and &quot;no-index/follow&quot; mean?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360027859411-What-does-crawlable-and-no-index-follow-mean</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360027859411</guid>
+         <pubDate>Thu, 02 May 2019 14:29:04 GMT</pubDate>
+      </item>
+      <item>
+         <title>Track Google Ads Conversions on Form CTA Submissions</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360027267411-Track-Google-Ads-Conversions-on-Form-CTA-Submissions</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360027267411</guid>
+         <pubDate>Mon, 22 Apr 2019 17:31:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>Smart Filters using deleted tags are not running</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/27252738861325-Smart-Filters-using-deleted-tags-are-not-running</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">27252738861325</guid>
+         <pubDate>Mon, 03 Jun 2024 16:26:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Edit content Items</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/27116424565773-Edit-content-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">27116424565773</guid>
+         <pubDate>Tue, 28 May 2024 22:37:53 GMT</pubDate>
+      </item>
+      <item>
+         <title>Media: Organize your image library using folders, collections, and tags</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/26985437622669-Media-Organize-your-image-library-using-folders-collections-and-tags</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">26985437622669</guid>
+         <pubDate>Thu, 23 May 2024 18:09:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Media: Crop images</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25430226849549-Media-Crop-images</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25430226849549</guid>
+         <pubDate>Thu, 28 Mar 2024 19:57:21 GMT</pubDate>
+      </item>
+      <item>
+         <title>Media: Upload and use images in Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25430198637197-Media-Upload-and-use-images-in-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25430198637197</guid>
+         <pubDate>Thu, 28 Mar 2024 19:56:46 GMT</pubDate>
+      </item>
+      <item>
+         <title>Media: Image management in Uberflip explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25430157641741-Media-Image-management-in-Uberflip-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25430157641741</guid>
+         <pubDate>Thu, 28 Mar 2024 19:54:31 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create a new blog post</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25430088305677-Create-a-new-blog-post</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25430088305677</guid>
+         <pubDate>Thu, 28 Mar 2024 19:53:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>The Image Migrator app is being retired [2024]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/20903973796365-The-Image-Migrator-app-is-being-retired-2024</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">20903973796365</guid>
+         <pubDate>Tue, 31 Oct 2023 22:36:55 GMT</pubDate>
+      </item>
+      <item>
+         <title>Force users to log into Uberflip using single sign-on (SSO)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/20865216012301-Force-users-to-log-into-Uberflip-using-single-sign-on-SSO</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">20865216012301</guid>
+         <pubDate>Mon, 30 Oct 2023 22:51:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist + Salesforce: Using the Sales Assist app in SFDC</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/18131368602509-Sales-Assist-Salesforce-Using-the-Sales-Assist-app-in-SFDC</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">18131368602509</guid>
+         <pubDate>Tue, 01 Aug 2023 18:05:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist + Salesforce: Set up the Sales Assist app in Salesforce as an admin</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/18130956008717-Sales-Assist-Salesforce-Set-up-the-Sales-Assist-app-in-Salesforce-as-an-admin</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">18130956008717</guid>
+         <pubDate>Tue, 01 Aug 2023 17:55:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Announcement: &quot;Sales Streams&quot; are now called &quot;Digital Sales Rooms&quot; in Uberflip [July 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/17317687236621-Announcement-Sales-Streams-are-now-called-Digital-Sales-Rooms-in-Uberflip-July-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">17317687236621</guid>
+         <pubDate>Tue, 04 Jul 2023 19:10:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>Get started: What is Uberflip?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/16545169557901-Get-started-What-is-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">16545169557901</guid>
+         <pubDate>Thu, 08 Jun 2023 16:56:08 GMT</pubDate>
+      </item>
+      <item>
+         <title>5 Uberflip features that are being retired (Nov. 1st, 2023)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/15015536441229-5-Uberflip-features-that-are-being-retired-Nov-1st-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">15015536441229</guid>
+         <pubDate>Wed, 19 Apr 2023 22:02:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>SlideShare Streams are being retired [Nov. 2023] </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14930427293709-SlideShare-Streams-are-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14930427293709</guid>
+         <pubDate>Mon, 17 Apr 2023 19:27:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Twitter Stream support has ended [April 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14929543582477-Twitter-Stream-support-has-ended-April-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14929543582477</guid>
+         <pubDate>Mon, 17 Apr 2023 19:08:53 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbot is being retired [Nov. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14929481971341-Flipbot-is-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14929481971341</guid>
+         <pubDate>Mon, 17 Apr 2023 19:08:16 GMT</pubDate>
+      </item>
+      <item>
+         <title>iFrame Embed is being retired [Nov. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14929474473613-iFrame-Embed-is-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14929474473613</guid>
+         <pubDate>Mon, 17 Apr 2023 19:07:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>The &quot;Menu Style&quot; setting is being retired [Nov. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14929440762381-The-Menu-Style-setting-is-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14929440762381</guid>
+         <pubDate>Mon, 17 Apr 2023 19:06:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hubs Lab is being retired [Nov. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/14539608186893-Hubs-Lab-is-being-retired-Nov-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">14539608186893</guid>
+         <pubDate>Mon, 03 Apr 2023 17:33:29 GMT</pubDate>
+      </item>
+      <item>
+         <title>Using Custom Code: considerations and warnings</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/13648673352333-Using-Custom-Code-considerations-and-warnings</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">13648673352333</guid>
+         <pubDate>Thu, 02 Mar 2023 19:30:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Acquisition channel data changes in UFA [Jan. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/11935627027725-Acquisition-channel-data-changes-in-UFA-Jan-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">11935627027725</guid>
+         <pubDate>Tue, 03 Jan 2023 18:33:22 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add and edit Stream sections in a Marketing Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/10861402352525-Add-and-edit-Stream-sections-in-a-Marketing-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">10861402352525</guid>
+         <pubDate>Wed, 23 Nov 2022 17:36:27 GMT</pubDate>
+      </item>
+      <item>
+         <title>Archive a Stream or Digital Sales Room</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/10521331650573-Archive-a-Stream-or-Digital-Sales-Room</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">10521331650573</guid>
+         <pubDate>Wed, 09 Nov 2022 23:32:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Analytics Enrichment features explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/10038158221709-Analytics-Enrichment-features-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">10038158221709</guid>
+         <pubDate>Thu, 20 Oct 2022 23:34:59 GMT</pubDate>
+      </item>
+      <item>
+         <title>Disable or delete a Flipbook</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/9984366864141-Disable-or-delete-a-Flipbook</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">9984366864141</guid>
+         <pubDate>Tue, 18 Oct 2022 23:28:19 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed Uberflip Analytics into other tools using iframe</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/9478513016589-Embed-Uberflip-Analytics-into-other-tools-using-iframe</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">9478513016589</guid>
+         <pubDate>Tue, 27 Sep 2022 19:17:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>Changes to new and returning visitor data in UFA [Aug. 2022]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8494117174925-Changes-to-new-and-returning-visitor-data-in-UFA-Aug-2022</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8494117174925</guid>
+         <pubDate>Wed, 17 Aug 2022 19:39:43 GMT</pubDate>
+      </item>
+      <item>
+         <title>Import content into Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8469735684621-Import-content-into-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8469735684621</guid>
+         <pubDate>Tue, 16 Aug 2022 21:36:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>Item tags and Tag Groups explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8129396439053-Item-tags-and-Tag-Groups-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8129396439053</guid>
+         <pubDate>Tue, 02 Aug 2022 19:50:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Enhanced Tag Manager: user guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8129118360077-Enhanced-Tag-Manager-user-guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8129118360077</guid>
+         <pubDate>Tue, 02 Aug 2022 19:41:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add a user to your Uberflip account</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/7288948121229-Add-a-user-to-your-Uberflip-account</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">7288948121229</guid>
+         <pubDate>Wed, 29 Jun 2022 14:50:05 GMT</pubDate>
+      </item>
+      <item>
+         <title>Announcement: The Uberflip Chrome extension &amp; Outlook add-in have been retired [Dec. 2022] </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/7090817135629-Announcement-The-Uberflip-Chrome-extension-Outlook-add-in-have-been-retired-Dec-2022</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">7090817135629</guid>
+         <pubDate>Tue, 21 Jun 2022 15:43:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Auto-archive inactive DSRs and Items</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/6999040063757-Sales-Assist-Auto-archive-inactive-DSRs-and-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">6999040063757</guid>
+         <pubDate>Fri, 17 Jun 2022 10:58:04 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create or edit a custom Hub menu</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/6275055448845-Create-or-edit-a-custom-Hub-menu</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">6275055448845</guid>
+         <pubDate>Mon, 16 May 2022 20:13:15 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create and share a Marketing Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/6214460126349-Create-and-share-a-Marketing-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">6214460126349</guid>
+         <pubDate>Fri, 13 May 2022 17:35:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>View a Stream or Item analytics in the Stream/Item editor</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5665837787533-View-a-Stream-or-Item-analytics-in-the-Stream-Item-editor</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5665837787533</guid>
+         <pubDate>Wed, 20 Apr 2022 17:33:49 GMT</pubDate>
+      </item>
+      <item>
+         <title>Announcement: Retiring SnapApp [Aug. 2022]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5649118635405-Announcement-Retiring-SnapApp-Aug-2022</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5649118635405</guid>
+         <pubDate>Tue, 19 Apr 2022 22:25:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Feature Items in a Marketing or Source Stream (and your Hub)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4746822903693-Feature-Items-in-a-Marketing-or-Source-Stream-and-your-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4746822903693</guid>
+         <pubDate>Fri, 11 Mar 2022 23:53:42 GMT</pubDate>
+      </item>
+      <item>
+         <title>Stream functionality options explained </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4607063680781-Stream-functionality-options-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4607063680781</guid>
+         <pubDate>Fri, 04 Mar 2022 23:11:22 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbot: What is Flipbot?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4492714153613-Flipbot-What-is-Flipbot</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4492714153613</guid>
+         <pubDate>Thu, 24 Feb 2022 18:47:27 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Weekly performance email for admins</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4440660474381-Sales-Assist-Weekly-performance-email-for-admins</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4440660474381</guid>
+         <pubDate>Thu, 17 Feb 2022 19:39:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Set up and run Export and special bulk actions</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4422794535309-Bulk-Task-Smasher-Set-up-and-run-Export-and-special-bulk-actions</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4422794535309</guid>
+         <pubDate>Mon, 24 Jan 2022 22:50:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Set up and run Create, Update, and Delete bulk actions</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4422781484557-Bulk-Task-Smasher-Set-up-and-run-Create-Update-and-Delete-bulk-actions</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4422781484557</guid>
+         <pubDate>Mon, 24 Jan 2022 22:49:58 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Best practices for use</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4422151590797-Bulk-Task-Smasher-Best-practices-for-use</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4422151590797</guid>
+         <pubDate>Thu, 20 Jan 2022 20:54:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Configure permissions to control access to app features</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4421919862925-Bulk-Task-Smasher-Configure-permissions-to-control-access-to-app-features</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4421919862925</guid>
+         <pubDate>Wed, 19 Jan 2022 19:01:15 GMT</pubDate>
+      </item>
+      <item>
+         <title>Update Uberflip Marketplace apps</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4420855021837-Update-Uberflip-Marketplace-apps</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4420855021837</guid>
+         <pubDate>Fri, 14 Jan 2022 22:15:34 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: Stream Purpose ID codes</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4420439969549-Bulk-Task-Smasher-Stream-Purpose-ID-codes</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4420439969549</guid>
+         <pubDate>Wed, 12 Jan 2022 23:23:38 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4420438749197-Bulk-Task-Smasher-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4420438749197</guid>
+         <pubDate>Wed, 12 Jan 2022 23:02:41 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bulk Task Smasher: What does the warning about the Excel character limit mean?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4411353508109-Bulk-Task-Smasher-What-does-the-warning-about-the-Excel-character-limit-mean</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4411353508109</guid>
+         <pubDate>Thu, 14 Oct 2021 22:44:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add an internal name to a Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4408737293709-Add-an-internal-name-to-a-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4408737293709</guid>
+         <pubDate>Tue, 07 Sep 2021 20:44:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Streams explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4407951638669-Uberflip-Streams-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4407951638669</guid>
+         <pubDate>Thu, 26 Aug 2021 21:31:48 GMT</pubDate>
+      </item>
+      <item>
+         <title>Where can I find Uberflip&apos;s policies and legal documentation?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4406470667405-Where-can-I-find-Uberflip-s-policies-and-legal-documentation</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4406470667405</guid>
+         <pubDate>Wed, 04 Aug 2021 19:23:12 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add custom URL paths (vanity URLs) to Streams or DSRs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4403569054733-Add-custom-URL-paths-vanity-URLs-to-Streams-or-DSRs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4403569054733</guid>
+         <pubDate>Tue, 22 Jun 2021 19:54:39 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embedded content displays an error message</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360061553372-Embedded-content-displays-an-error-message</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360061553372</guid>
+         <pubDate>Wed, 26 May 2021 22:00:33 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Create separate environments for different user groups</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360060350751-Sales-Assist-Create-separate-environments-for-different-user-groups</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360060350751</guid>
+         <pubDate>Fri, 23 Apr 2021 21:07:41 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Configure permissions to control access to app features</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360059650691-Sales-Assist-Configure-permissions-to-control-access-to-app-features</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360059650691</guid>
+         <pubDate>Fri, 09 Apr 2021 15:02:44 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Get started as a Sales User</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360057767692-Sales-Assist-Get-started-as-a-Sales-User</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360057767692</guid>
+         <pubDate>Wed, 10 Mar 2021 17:09:39 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Admin Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360057767632-Sales-Assist-Admin-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360057767632</guid>
+         <pubDate>Wed, 10 Mar 2021 17:09:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Migrate a Pardot integration to a Salesforce SSO account</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360055957252-Migrate-a-Pardot-integration-to-a-Salesforce-SSO-account</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360055957252</guid>
+         <pubDate>Tue, 02 Feb 2021 16:59:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>Why can&apos;t I see the &quot;Explore From Here&quot; option in Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360053118192-Why-can-t-I-see-the-Explore-From-Here-option-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360053118192</guid>
+         <pubDate>Thu, 10 Dec 2020 15:53:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Use an external consent management platform (CMP) to manage cookie consent on your Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360052931871-Use-an-external-consent-management-platform-CMP-to-manage-cookie-consent-on-your-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360052931871</guid>
+         <pubDate>Tue, 24 Nov 2020 17:57:55 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can&apos;t find scheduled reports in Uberflip Analytics</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360051584372-Can-t-find-scheduled-reports-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360051584372</guid>
+         <pubDate>Tue, 03 Nov 2020 20:23:04 GMT</pubDate>
+      </item>
+      <item>
+         <title>Metadata tab is missing in Edit Article view</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360050478272-Metadata-tab-is-missing-in-Edit-Article-view</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360050478272</guid>
+         <pubDate>Tue, 13 Oct 2020 20:53:44 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbooks (Content &gt; Analytics)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049353592-Flipbooks-Content-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049353592</guid>
+         <pubDate>Thu, 17 Sep 2020 15:32:44 GMT</pubDate>
+      </item>
+      <item>
+         <title>Integrate Google Analytics through Google Tag Manager</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049611731-Integrate-Google-Analytics-through-Google-Tag-Manager</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049611731</guid>
+         <pubDate>Mon, 14 Sep 2020 15:15:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Images missing when sharing to Twitter</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049034752-Images-missing-when-sharing-to-Twitter</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049034752</guid>
+         <pubDate>Thu, 10 Sep 2020 21:19:24 GMT</pubDate>
+      </item>
+      <item>
+         <title> Filter-Only (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049007972--Filter-Only-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049007972</guid>
+         <pubDate>Thu, 10 Sep 2020 16:33:05 GMT</pubDate>
+      </item>
+      <item>
+         <title>Account ID (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044682651-Account-ID-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044682651</guid>
+         <pubDate>Mon, 08 Jun 2020 19:47:06 GMT</pubDate>
+      </item>
+      <item>
+         <title>Supported Browsers and Operating Systems</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360043402071-Supported-Browsers-and-Operating-Systems</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360043402071</guid>
+         <pubDate>Mon, 11 May 2020 16:43:14 GMT</pubDate>
+      </item>
+      <item>
+         <title>Configure settings for Uberflip Marketplace apps</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360042582411-Configure-settings-for-Uberflip-Marketplace-apps</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360042582411</guid>
+         <pubDate>Tue, 21 Apr 2020 21:14:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I delete data from Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360042413951-Can-I-delete-data-from-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360042413951</guid>
+         <pubDate>Thu, 16 Apr 2020 21:05:42 GMT</pubDate>
+      </item>
+      <item>
+         <title>Change the default Hub you see when you log in</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360041155612-Change-the-default-Hub-you-see-when-you-log-in</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360041155612</guid>
+         <pubDate>Fri, 27 Mar 2020 19:15:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>JavaScript custom code is not working on Streams with a personalizer app enabled</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040715212-JavaScript-custom-code-is-not-working-on-Streams-with-a-personalizer-app-enabled</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040715212</guid>
+         <pubDate>Wed, 18 Mar 2020 21:23:51 GMT</pubDate>
+      </item>
+      <item>
+         <title>Change the owner of a Stream or DSR</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040516852-Change-the-owner-of-a-Stream-or-DSR</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040516852</guid>
+         <pubDate>Fri, 13 Mar 2020 16:38:54 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Platform Cookies Explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360039954991-Uberflip-Platform-Cookies-Explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360039954991</guid>
+         <pubDate>Tue, 18 Feb 2020 21:37:30 GMT</pubDate>
+      </item>
+      <item>
+         <title>Where can I find information about new features in Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360039008092-Where-can-I-find-information-about-new-features-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360039008092</guid>
+         <pubDate>Fri, 31 Jan 2020 19:15:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I create my own Content Types in Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038743471-Can-I-create-my-own-Content-Types-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038743471</guid>
+         <pubDate>Mon, 13 Jan 2020 15:12:11 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I see Account or visitor data in Uberflip Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038320752-Can-I-see-Account-or-visitor-data-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038320752</guid>
+         <pubDate>Fri, 10 Jan 2020 20:25:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>How is Uberflip Analytics different from Google Analytics?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038306732-How-is-Uberflip-Analytics-different-from-Google-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038306732</guid>
+         <pubDate>Fri, 10 Jan 2020 14:20:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Error: &quot;Form ID Not Found&quot; when connecting an Eloqua Form to a Form CTA</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038607691-Error-Form-ID-Not-Found-when-connecting-an-Eloqua-Form-to-a-Form-CTA</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038607691</guid>
+         <pubDate>Wed, 08 Jan 2020 21:09:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Best Practices for Flipbooks SEO</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360037703151-Best-Practices-for-Flipbooks-SEO</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360037703151</guid>
+         <pubDate>Mon, 09 Dec 2019 15:34:23 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create Multi-Language Links Between Hubs, Streams, and Items</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360035196932-Create-Multi-Language-Links-Between-Hubs-Streams-and-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360035196932</guid>
+         <pubDate>Fri, 25 Oct 2019 17:53:46 GMT</pubDate>
+      </item>
+      <item>
+         <title>How many tags can be added to an Item?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360035055912-How-many-tags-can-be-added-to-an-Item</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360035055912</guid>
+         <pubDate>Tue, 22 Oct 2019 15:09:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embedded CTA brings in on-page apps</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360035297651-Embedded-CTA-brings-in-on-page-apps</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360035297651</guid>
+         <pubDate>Thu, 17 Oct 2019 16:08:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can&apos;t find ACS URL for SSO Setup</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360032729372-Can-t-find-ACS-URL-for-SSO-Setup</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360032729372</guid>
+         <pubDate>Thu, 29 Aug 2019 17:33:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Switch between live and staging versions of an in-development Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360032870191-Switch-between-live-and-staging-versions-of-an-in-development-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360032870191</guid>
+         <pubDate>Fri, 23 Aug 2019 16:08:07 GMT</pubDate>
+      </item>
+      <item>
+         <title>Define a Custom Lead Source Value for Marketo</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360030545852-Define-a-Custom-Lead-Source-Value-for-Marketo</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360030545852</guid>
+         <pubDate>Thu, 11 Jul 2019 15:36:35 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed a Marketo Form into a Hub Item</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360030510912-Embed-a-Marketo-Form-into-a-Hub-Item</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360030510912</guid>
+         <pubDate>Wed, 10 Jul 2019 20:38:50 GMT</pubDate>
+      </item>
+      <item>
+         <title>Get started with Digital Sales Rooms (DSRs) in Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360030087932-Get-started-with-Digital-Sales-Rooms-DSRs-in-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360030087932</guid>
+         <pubDate>Thu, 04 Jul 2019 15:44:34 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hide a Marketing or Source Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029676452-Hide-a-Marketing-or-Source-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029676452</guid>
+         <pubDate>Thu, 27 Jun 2019 18:33:19 GMT</pubDate>
+      </item>
+      <item>
+         <title>Reference: Uberflip IP Addresses</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029634752-Reference-Uberflip-IP-Addresses</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029634752</guid>
+         <pubDate>Wed, 26 Jun 2019 19:35:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Customize the content on your Hub&apos;s homepage</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029327532-Customize-the-content-on-your-Hub-s-homepage</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029327532</guid>
+         <pubDate>Tue, 18 Jun 2019 19:03:10 GMT</pubDate>
+      </item>
+      <item>
+         <title>Use and manage Item tags (and Tag Groups)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029638391-Use-and-manage-Item-tags-and-Tag-Groups</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029638391</guid>
+         <pubDate>Tue, 18 Jun 2019 17:34:01 GMT</pubDate>
+      </item>
+      <item>
+         <title>Replace an Entire Flipbook</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029166552-Replace-an-Entire-Flipbook</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029166552</guid>
+         <pubDate>Thu, 13 Jun 2019 15:32:33 GMT</pubDate>
+      </item>
+      <item>
+         <title>Replace a Page in a Flipbook</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029126072-Replace-a-Page-in-a-Flipbook</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029126072</guid>
+         <pubDate>Wed, 12 Jun 2019 18:21:18 GMT</pubDate>
+      </item>
+      <item>
+         <title>Customize Hub page UI text or language with Custom Labels</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028690851-Customize-Hub-page-UI-text-or-language-with-Custom-Labels</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028690851</guid>
+         <pubDate>Wed, 22 May 2019 16:01:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Duplicate Items showing in Stream on Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028380772-Duplicate-Items-showing-in-Stream-on-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028380772</guid>
+         <pubDate>Wed, 22 May 2019 14:28:01 GMT</pubDate>
+      </item>
+      <item>
+         <title>What does &quot;crawlable&quot; and &quot;no-index/follow&quot; mean?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360027859411-What-does-crawlable-and-no-index-follow-mean</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360027859411</guid>
+         <pubDate>Thu, 02 May 2019 14:29:04 GMT</pubDate>
+      </item>
+      <item>
+         <title>Track Google Ads Conversions on Form CTA Submissions</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360027267411-Track-Google-Ads-Conversions-on-Form-CTA-Submissions</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360027267411</guid>
+         <pubDate>Mon, 22 Apr 2019 17:31:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Get to know the page builder UI</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/17703470962829-Uberflip-Pages-Get-to-know-the-page-builder-UI</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">17703470962829</guid>
+         <pubDate>Mon, 17 Jul 2023 23:27:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Get started: Centralize and organize content in Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/16548646155533-Get-started-Centralize-and-organize-content-in-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">16548646155533</guid>
+         <pubDate>Thu, 08 Jun 2023 18:27:07 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed web content in Uberflip blog posts</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/15325347043469-Embed-web-content-in-Uberflip-blog-posts</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">15325347043469</guid>
+         <pubDate>Fri, 28 Apr 2023 20:58:48 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Change the environment labels used to describe page types in the Sale Assist UI</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/13894587662093-Sales-Assist-Change-the-environment-labels-used-to-describe-page-types-in-the-Sale-Assist-UI</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">13894587662093</guid>
+         <pubDate>Fri, 10 Mar 2023 20:57:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>[Video] Enhanced Tag Manager: Tag your content</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/11422330136717--Video-Enhanced-Tag-Manager-Tag-your-content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">11422330136717</guid>
+         <pubDate>Tue, 13 Dec 2022 18:28:13 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Create an Item from a file</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5842216279309-Sales-Assist-Create-an-Item-from-a-file</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5842216279309</guid>
+         <pubDate>Wed, 27 Apr 2022 20:35:55 GMT</pubDate>
+      </item>
+      <item>
+         <title>Delete visitor Personally Identifiable Information (PII) from Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5231245831565-Delete-visitor-Personally-Identifiable-Information-PII-from-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5231245831565</guid>
+         <pubDate>Fri, 01 Apr 2022 17:03:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbot: Activity Dashboard </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4493588196749-Flipbot-Activity-Dashboard</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4493588196749</guid>
+         <pubDate>Thu, 24 Feb 2022 19:47:20 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hub frontend V1 vs. V2: Determine your Hub version </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360051466431-Hub-frontend-V1-vs-V2-Determine-your-Hub-version</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360051466431</guid>
+         <pubDate>Thu, 22 Oct 2020 21:33:42 GMT</pubDate>
+      </item>
+      <item>
+         <title>Where can I find developer documentation for Uberflip?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360051446431-Where-can-I-find-developer-documentation-for-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360051446431</guid>
+         <pubDate>Thu, 22 Oct 2020 17:16:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>How often are blog Streams updated?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360049996412-How-often-are-blog-Streams-updated</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360049996412</guid>
+         <pubDate>Thu, 01 Oct 2020 20:11:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>CTAs: Link (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044727451-CTAs-Link-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044727451</guid>
+         <pubDate>Tue, 09 Jun 2020 16:49:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a Vimeo Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360041923392-Set-Up-a-Vimeo-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360041923392</guid>
+         <pubDate>Wed, 15 Apr 2020 17:42:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hub Localization Features Explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360035997751-Hub-Localization-Features-Explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360035997751</guid>
+         <pubDate>Thu, 07 Nov 2019 17:59:34 GMT</pubDate>
+      </item>
+      <item>
+         <title>Reference: User Group Default Permissions</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360034488151-Reference-User-Group-Default-Permissions</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360034488151</guid>
+         <pubDate>Thu, 26 Sep 2019 14:28:16 GMT</pubDate>
+      </item>
+      <item>
+         <title>Customize and manage your DSRs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360030689211-Customize-and-manage-your-DSRs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360030689211</guid>
+         <pubDate>Mon, 08 Jul 2019 16:15:42 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hide or delete (archive) an Item</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360025265112-Hide-or-delete-archive-an-Item</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360025265112</guid>
+         <pubDate>Wed, 20 Mar 2019 17:02:57 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up Content Recommendations in Your Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360022410572-Set-Up-Content-Recommendations-in-Your-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360022410572</guid>
+         <pubDate>Tue, 29 Jan 2019 19:32:18 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create variations of a CTA</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020855752-Create-variations-of-a-CTA</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020855752</guid>
+         <pubDate>Tue, 18 Dec 2018 16:59:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set up a Link CTA</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020735012-Set-up-a-Link-CTA</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020735012</guid>
+         <pubDate>Fri, 14 Dec 2018 18:58:29 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbook Editor: Embed Google Maps into a Flipbook</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020444392-Flipbook-Editor-Embed-Google-Maps-into-a-Flipbook</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020444392</guid>
+         <pubDate>Fri, 07 Dec 2018 19:15:16 GMT</pubDate>
+      </item>
+      <item>
+         <title>Custom Domain: Hubs on Subdirectories Explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360018964792-Custom-Domain-Hubs-on-Subdirectories-Explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360018964792</guid>
+         <pubDate>Thu, 08 Nov 2018 21:31:27 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Create and edit a page</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/17703444581261-Uberflip-Pages-Create-and-edit-a-page</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">17703444581261</guid>
+         <pubDate>Mon, 17 Jul 2023 23:27:01 GMT</pubDate>
+      </item>
+      <item>
+         <title>Get started: Create a content collection</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/16549425779853-Get-started-Create-a-content-collection</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">16549425779853</guid>
+         <pubDate>Thu, 08 Jun 2023 18:50:12 GMT</pubDate>
+      </item>
+      <item>
+         <title>[Video] Enhanced Tag Manager: Set up your tagging structure</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/11398258370061--Video-Enhanced-Tag-Manager-Set-up-your-tagging-structure</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">11398258370061</guid>
+         <pubDate>Tue, 13 Dec 2022 00:09:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>6sense Enrichment explained </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5240059424781-6sense-Enrichment-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5240059424781</guid>
+         <pubDate>Fri, 01 Apr 2022 22:27:24 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Add a gate CTA or passphrase to a DSR</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5123676873101-Sales-Assist-Add-a-gate-CTA-or-passphrase-to-a-DSR</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5123676873101</guid>
+         <pubDate>Mon, 28 Mar 2022 15:45:12 GMT</pubDate>
+      </item>
+      <item>
+         <title>Announcement: Video and calendar features removed from Flipbot [Feb. 2022]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4494408627981-Announcement-Video-and-calendar-features-removed-from-Flipbot-Feb-2022</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4494408627981</guid>
+         <pubDate>Thu, 24 Feb 2022 20:46:23 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hubs (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044279352-Hubs-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044279352</guid>
+         <pubDate>Tue, 09 Jun 2020 16:55:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed social content into a blog post</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360043910832-Embed-social-content-into-a-blog-post</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360043910832</guid>
+         <pubDate>Mon, 01 Jun 2020 15:10:36 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a YouTube Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360041233912-Set-Up-a-YouTube-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360041233912</guid>
+         <pubDate>Mon, 30 Mar 2020 17:23:24 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I perform bulk actions in Uberflip?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360033030731-Can-I-perform-bulk-actions-in-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360033030731</guid>
+         <pubDate>Wed, 28 Aug 2019 18:46:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create an animated CTA tile</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029680311-Create-an-animated-CTA-tile</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029680311</guid>
+         <pubDate>Wed, 19 Jun 2019 16:28:35 GMT</pubDate>
+      </item>
+      <item>
+         <title>Should I Host My Hub on a Subdirectory?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360023486351-Should-I-Host-My-Hub-on-a-Subdirectory</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360023486351</guid>
+         <pubDate>Wed, 13 Feb 2019 22:47:51 GMT</pubDate>
+      </item>
+      <item>
+         <title>Place a CTA while managing a Stream</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020860752-Place-a-CTA-while-managing-a-Stream</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020860752</guid>
+         <pubDate>Tue, 18 Dec 2018 18:28:21 GMT</pubDate>
+      </item>
+      <item>
+         <title>Recover deleted Items and archived Streams</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020669872-Recover-deleted-Items-and-archived-Streams</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020669872</guid>
+         <pubDate>Thu, 13 Dec 2018 15:54:31 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbook Editor: Add Media and Social Content with Flipbook Widgets</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020439632-Flipbook-Editor-Add-Media-and-Social-Content-with-Flipbook-Widgets</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020439632</guid>
+         <pubDate>Fri, 07 Dec 2018 17:37:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>What is a Primary User?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360018726352-What-is-a-Primary-User</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360018726352</guid>
+         <pubDate>Fri, 02 Nov 2018 20:08:14 GMT</pubDate>
+      </item>
+      <item>
+         <title>Get Started: Use Form CTAs to capture leads</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/22243951435405-Get-Started-Use-Form-CTAs-to-capture-leads</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">22243951435405</guid>
+         <pubDate>Mon, 11 Dec 2023 20:00:39 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Add Items, Streams, and Form CTAs to a page</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/17991109743629-Uberflip-Pages-Add-Items-Streams-and-Form-CTAs-to-a-page</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">17991109743629</guid>
+         <pubDate>Thu, 27 Jul 2023 17:05:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add custom URL paths (vanity URLs) to Items</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/8266672094605-Add-custom-URL-paths-vanity-URLs-to-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">8266672094605</guid>
+         <pubDate>Mon, 08 Aug 2022 17:35:35 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Team stats for admins </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/6450083020301-Sales-Assist-Team-stats-for-admins</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">6450083020301</guid>
+         <pubDate>Tue, 24 May 2022 19:35:30 GMT</pubDate>
+      </item>
+      <item>
+         <title>The Reco Embed Widget App</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/5816544329229-The-Reco-Embed-Widget-App</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">5816544329229</guid>
+         <pubDate>Tue, 26 Apr 2022 23:13:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbot: Magic Logo feature</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4494384049805-Flipbot-Magic-Logo-feature</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4494384049805</guid>
+         <pubDate>Thu, 24 Feb 2022 20:44:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Track DSR engagement </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4423803775245-Sales-Assist-Track-DSR-engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4423803775245</guid>
+         <pubDate>Tue, 01 Feb 2022 22:27:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>MAP Enrichment explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4409773235085-MAP-Enrichment-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4409773235085</guid>
+         <pubDate>Wed, 22 Sep 2021 07:33:10 GMT</pubDate>
+      </item>
+      <item>
+         <title>Download and send Uberflip Analytics dashboards and reports</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360055717012-Download-and-send-Uberflip-Analytics-dashboards-and-reports</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360055717012</guid>
+         <pubDate>Wed, 27 Jan 2021 23:18:57 GMT</pubDate>
+      </item>
+      <item>
+         <title>Item Created Date (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044279612-Item-Created-Date-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044279612</guid>
+         <pubDate>Tue, 09 Jun 2020 17:03:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip custom fields for Marketing Automation Platforms explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040307932-Uberflip-custom-fields-for-Marketing-Automation-Platforms-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040307932</guid>
+         <pubDate>Mon, 09 Mar 2020 17:02:05 GMT</pubDate>
+      </item>
+      <item>
+         <title>SEO settings (and best practices) in Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028437152-SEO-settings-and-best-practices-in-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028437152</guid>
+         <pubDate>Thu, 23 May 2019 16:21:50 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set up a custom Form CTA integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360023028832-Set-up-a-custom-Form-CTA-integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360023028832</guid>
+         <pubDate>Tue, 12 Feb 2019 19:22:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>The Visitor Insights Dashboard Explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360022410952-The-Visitor-Insights-Dashboard-Explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360022410952</guid>
+         <pubDate>Tue, 29 Jan 2019 19:42:29 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed a CTA into your website</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020859752-Embed-a-CTA-into-your-website</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020859752</guid>
+         <pubDate>Tue, 18 Dec 2018 18:10:36 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add thumbnails to Item tiles on imported blog Streams</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020840711-Add-thumbnails-to-Item-tiles-on-imported-blog-Streams</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020840711</guid>
+         <pubDate>Tue, 11 Dec 2018 22:04:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbook Editor: Add &amp; Edit Links</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020706091-Flipbook-Editor-Add-Edit-Links</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020706091</guid>
+         <pubDate>Fri, 07 Dec 2018 16:48:08 GMT</pubDate>
+      </item>
+      <item>
+         <title>Custom Domain: Set up Your Hub on a Subdirectory</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360019755751-Custom-Domain-Set-up-Your-Hub-on-a-Subdirectory</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360019755751</guid>
+         <pubDate>Tue, 13 Nov 2018 16:20:21 GMT</pubDate>
+      </item>
+      <item>
+         <title>Change Your Account&apos;s Primary User</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360018723672-Change-Your-Account-s-Primary-User</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360018723672</guid>
+         <pubDate>Fri, 02 Nov 2018 18:27:38 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Manage your pages</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/17703497252749-Uberflip-Pages-Manage-your-pages</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">17703497252749</guid>
+         <pubDate>Mon, 17 Jul 2023 23:28:38 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Manage your existing DSRs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/15903613955597-Sales-Assist-Manage-your-existing-DSRs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">15903613955597</guid>
+         <pubDate>Thu, 18 May 2023 21:31:49 GMT</pubDate>
+      </item>
+      <item>
+         <title>Change the maximum and idle session length for all users in an Uberflip account</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/11624848674445-Change-the-maximum-and-idle-session-length-for-all-users-in-an-Uberflip-account</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">11624848674445</guid>
+         <pubDate>Wed, 21 Dec 2022 00:10:46 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbot: Developer guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4493842270861-Flipbot-Developer-guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4493842270861</guid>
+         <pubDate>Thu, 24 Feb 2022 20:04:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>Code Saver: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360060510331-Code-Saver-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360060510331</guid>
+         <pubDate>Tue, 27 Apr 2021 22:12:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Drill into Uberflip Analytics dashboards to view more data</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360055716312-Drill-into-Uberflip-Analytics-dashboards-to-view-more-data</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360055716312</guid>
+         <pubDate>Wed, 27 Jan 2021 23:12:04 GMT</pubDate>
+      </item>
+      <item>
+         <title>Item Modified Date (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044279752-Item-Modified-Date-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044279752</guid>
+         <pubDate>Tue, 09 Jun 2020 17:08:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a Mailchimp Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360037491672-Set-Up-a-Mailchimp-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360037491672</guid>
+         <pubDate>Thu, 12 Dec 2019 19:09:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can Site Engager and Content Recommendations recommend content from hidden Streams?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028200791-Can-Site-Engager-and-Content-Recommendations-recommend-content-from-hidden-Streams</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028200791</guid>
+         <pubDate>Thu, 09 May 2019 20:16:43 GMT</pubDate>
+      </item>
+      <item>
+         <title>Use hidden fields to capture query string parameters with Form CTAs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021975011-Use-hidden-fields-to-capture-query-string-parameters-with-Form-CTAs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021975011</guid>
+         <pubDate>Mon, 14 Jan 2019 23:00:29 GMT</pubDate>
+      </item>
+      <item>
+         <title>Open Graph and Twitter Card tags on your Hub explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021612952-Open-Graph-and-Twitter-Card-tags-on-your-Hub-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021612952</guid>
+         <pubDate>Thu, 10 Jan 2019 16:18:55 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed a YouTube Video into a Blog Post</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020883491-Embed-a-YouTube-Video-into-a-Blog-Post</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020883491</guid>
+         <pubDate>Wed, 12 Dec 2018 18:25:22 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbook Editor: Add a Table of Contents</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020704811-Flipbook-Editor-Add-a-Table-of-Contents</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020704811</guid>
+         <pubDate>Fri, 07 Dec 2018 16:29:13 GMT</pubDate>
+      </item>
+      <item>
+         <title>Schedule a blog post to be published in the future</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020084712-Schedule-a-blog-post-to-be-published-in-the-future</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020084712</guid>
+         <pubDate>Wed, 28 Nov 2018 21:14:34 GMT</pubDate>
+      </item>
+      <item>
+         <title>GDPR Feature: Conditional CTA form fields &amp; Label Only field type</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020221931-GDPR-Feature-Conditional-CTA-form-fields-Label-Only-field-type</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020221931</guid>
+         <pubDate>Mon, 26 Nov 2018 18:03:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Custom Domain: Configure Your Reverse Proxy for an Uberflip Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360019729931-Custom-Domain-Configure-Your-Reverse-Proxy-for-an-Uberflip-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360019729931</guid>
+         <pubDate>Mon, 12 Nov 2018 23:18:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Upload, crop, and insert images using Media</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/20896372993165-Uberflip-Pages-Upload-crop-and-insert-images-using-Media</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">20896372993165</guid>
+         <pubDate>Tue, 31 Oct 2023 19:05:29 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add or remove trailing slashes from your Uberflip URLs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/19684157111181-Add-or-remove-trailing-slashes-from-your-Uberflip-URLs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">19684157111181</guid>
+         <pubDate>Wed, 20 Sep 2023 21:22:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Auto-fill contact domains from Gmail and Salesloft in the Sales Assist Chrome extension</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/11291954479629-Sales-Assist-Auto-fill-contact-domains-from-Gmail-and-Salesloft-in-the-Sales-Assist-Chrome-extension</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">11291954479629</guid>
+         <pubDate>Thu, 08 Dec 2022 16:27:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>Configure your website to allow embedding into Uberflip content</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360060972932-Configure-your-website-to-allow-embedding-into-Uberflip-content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360060972932</guid>
+         <pubDate>Mon, 17 May 2021 22:09:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Filter data in Uberflip Analytics</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360055716132-Filter-data-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360055716132</guid>
+         <pubDate>Wed, 27 Jan 2021 23:10:38 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I delete a page from a Flipbook?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045355411-Can-I-delete-a-page-from-a-Flipbook</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045355411</guid>
+         <pubDate>Tue, 23 Jun 2020 17:35:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Item (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044280952-Item-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044280952</guid>
+         <pubDate>Tue, 09 Jun 2020 17:31:54 GMT</pubDate>
+      </item>
+      <item>
+         <title>6sense Personalizer: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360039621191-6sense-Personalizer-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360039621191</guid>
+         <pubDate>Fri, 07 Feb 2020 22:05:11 GMT</pubDate>
+      </item>
+      <item>
+         <title>AddThis has been retired by Oracle</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360037447512-AddThis-has-been-retired-by-Oracle</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360037447512</guid>
+         <pubDate>Wed, 11 Dec 2019 16:29:22 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I prevent specific Items from being recommended by Site Engager or Content Recommendations?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028199931-Can-I-prevent-specific-Items-from-being-recommended-by-Site-Engager-or-Content-Recommendations</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028199931</guid>
+         <pubDate>Thu, 09 May 2019 19:59:19 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I prevent people from entering personal email addresses on CTAs?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021664812-Can-I-prevent-people-from-entering-personal-email-addresses-on-CTAs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021664812</guid>
+         <pubDate>Fri, 11 Jan 2019 17:30:46 GMT</pubDate>
+      </item>
+      <item>
+         <title>Use hidden fields with Form CTAs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021489991-Use-hidden-fields-with-Form-CTAs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021489991</guid>
+         <pubDate>Wed, 02 Jan 2019 21:50:32 GMT</pubDate>
+      </item>
+      <item>
+         <title>Image guidelines for your Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020030752-Image-guidelines-for-your-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020030752</guid>
+         <pubDate>Tue, 27 Nov 2018 22:52:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create Authors and Author Bios</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360019000331-Create-Authors-and-Author-Bios</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360019000331</guid>
+         <pubDate>Thu, 01 Nov 2018 21:13:27 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Use templates and page duplication for faster building</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/21648092775565-Uberflip-Pages-Use-templates-and-page-duplication-for-faster-building</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">21648092775565</guid>
+         <pubDate>Fri, 24 Nov 2023 20:59:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Create your own content and templates</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/4423816459149-Sales-Assist-Create-your-own-content-and-templates</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">4423816459149</guid>
+         <pubDate>Tue, 01 Feb 2022 22:29:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>Create custom reports in Uberflip Analytics with Explore</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360051891272-Create-custom-reports-in-Uberflip-Analytics-with-Explore</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360051891272</guid>
+         <pubDate>Mon, 09 Nov 2020 21:35:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Why is the recommendation panel not appearing?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360048857471-Why-is-the-recommendation-panel-not-appearing</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360048857471</guid>
+         <pubDate>Thu, 27 Aug 2020 16:57:06 GMT</pubDate>
+      </item>
+      <item>
+         <title>Page Type (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045938171-Page-Type-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045938171</guid>
+         <pubDate>Tue, 07 Jul 2020 17:47:22 GMT</pubDate>
+      </item>
+      <item>
+         <title>Query String Personalizer: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038009851-Query-String-Personalizer-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038009851</guid>
+         <pubDate>Tue, 17 Dec 2019 16:48:12 GMT</pubDate>
+      </item>
+      <item>
+         <title>Claim Your Hub on Pinterest</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360037717131-Claim-Your-Hub-on-Pinterest</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360037717131</guid>
+         <pubDate>Mon, 09 Dec 2019 21:59:23 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I use a custom domain without &quot;www&quot; in the URL?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360033186892-Can-I-use-a-custom-domain-without-www-in-the-URL</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360033186892</guid>
+         <pubDate>Mon, 09 Sep 2019 15:35:03 GMT</pubDate>
+      </item>
+      <item>
+         <title>Gate High-Value Content with Form CTAs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021276731-Gate-High-Value-Content-with-Form-CTAs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021276731</guid>
+         <pubDate>Fri, 21 Dec 2018 21:43:53 GMT</pubDate>
+      </item>
+      <item>
+         <title>Optimize Your Blog&apos;s RSS Feed for Uberflip Streams</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020841051-Optimize-Your-Blog-s-RSS-Feed-for-Uberflip-Streams</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020841051</guid>
+         <pubDate>Tue, 11 Dec 2018 22:13:01 GMT</pubDate>
+      </item>
+      <item>
+         <title>View and Update Your User Profile and Author Bio</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360018679312-View-and-Update-Your-User-Profile-and-Author-Bio</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360018679312</guid>
+         <pubDate>Thu, 01 Nov 2018 16:05:38 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Choose how visitors view Items from your page</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/24102404899469-Uberflip-Pages-Choose-how-visitors-view-Items-from-your-page</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">24102404899469</guid>
+         <pubDate>Wed, 14 Feb 2024 00:42:15 GMT</pubDate>
+      </item>
+      <item>
+         <title>Use Embed Parameters to automatically add UTM (and other) parameters to Uberflip embeds</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360061089751-Use-Embed-Parameters-to-automatically-add-UTM-and-other-parameters-to-Uberflip-embeds</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360061089751</guid>
+         <pubDate>Mon, 10 May 2021 21:08:18 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Configure engagement notifications</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360059624771-Sales-Assist-Configure-engagement-notifications</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360059624771</guid>
+         <pubDate>Thu, 08 Apr 2021 21:36:14 GMT</pubDate>
+      </item>
+      <item>
+         <title>Stream Created Date (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044729251-Stream-Created-Date-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044729251</guid>
+         <pubDate>Tue, 09 Jun 2020 17:34:19 GMT</pubDate>
+      </item>
+      <item>
+         <title>Identify and Exclude Internal Visitor IDs in Uberflip Analytics </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360042691071-Identify-and-Exclude-Internal-Visitor-IDs-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360042691071</guid>
+         <pubDate>Thu, 23 Apr 2020 20:46:49 GMT</pubDate>
+      </item>
+      <item>
+         <title>How long are new user invitation emails valid for?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040297151-How-long-are-new-user-invitation-emails-valid-for</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040297151</guid>
+         <pubDate>Thu, 27 Feb 2020 21:37:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Demandbase Personalizer: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360037957091-Demandbase-Personalizer-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360037957091</guid>
+         <pubDate>Mon, 16 Dec 2019 21:06:59 GMT</pubDate>
+      </item>
+      <item>
+         <title>Update a Known Visitor&apos;s MAP Profile When They Interact With Specific Items</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360032633952-Update-a-Known-Visitor-s-MAP-Profile-When-They-Interact-With-Specific-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360032633952</guid>
+         <pubDate>Tue, 27 Aug 2019 21:02:21 GMT</pubDate>
+      </item>
+      <item>
+         <title>HTTPS for Hubs Explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028190551-HTTPS-for-Hubs-Explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028190551</guid>
+         <pubDate>Thu, 09 May 2019 15:14:43 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up Progressive Profiling on Form CTAs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021016412-Set-Up-Progressive-Profiling-on-Form-CTAs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021016412</guid>
+         <pubDate>Fri, 21 Dec 2018 18:04:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Hub Search explained</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020165151-Hub-Search-explained</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020165151</guid>
+         <pubDate>Fri, 23 Nov 2018 21:13:50 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Embed a video on a page </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/23368199777933-Uberflip-Pages-Embed-a-video-on-a-page</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">23368199777933</guid>
+         <pubDate>Fri, 19 Jan 2024 22:32:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>Move an imported external blog to a different CMS, or into Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360060811091-Move-an-imported-external-blog-to-a-different-CMS-or-into-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360060811091</guid>
+         <pubDate>Tue, 04 May 2021 16:05:21 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Install the Outlook Add-in</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360058009392-Sales-Assist-Install-the-Outlook-Add-in</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360058009392</guid>
+         <pubDate>Sat, 13 Mar 2021 00:32:13 GMT</pubDate>
+      </item>
+      <item>
+         <title>Stream (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044285232-Stream-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044285232</guid>
+         <pubDate>Tue, 09 Jun 2020 18:33:07 GMT</pubDate>
+      </item>
+      <item>
+         <title>Clearbit Personalizer: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360042349351-Clearbit-Personalizer-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360042349351</guid>
+         <pubDate>Wed, 15 Apr 2020 21:09:08 GMT</pubDate>
+      </item>
+      <item>
+         <title>Find Your Uberflip Analytics Identifier (UUID)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360041466972-Find-Your-Uberflip-Analytics-Identifier-UUID</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360041466972</guid>
+         <pubDate>Fri, 03 Apr 2020 18:12:23 GMT</pubDate>
+      </item>
+      <item>
+         <title>Where can I find Uberflip&apos;s API documentation?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029600591-Where-can-I-find-Uberflip-s-API-documentation</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029600591</guid>
+         <pubDate>Mon, 17 Jun 2019 21:20:19 GMT</pubDate>
+      </item>
+      <item>
+         <title>Add, Remove and Customize Form Fields on Form CTAs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021266571-Add-Remove-and-Customize-Form-Fields-on-Form-CTAs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021266571</guid>
+         <pubDate>Fri, 21 Dec 2018 17:20:52 GMT</pubDate>
+      </item>
+      <item>
+         <title>Remove a Custom Domain From Your Account</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360019142971-Remove-a-Custom-Domain-From-Your-Account</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360019142971</guid>
+         <pubDate>Tue, 06 Nov 2018 20:19:58 GMT</pubDate>
+      </item>
+      <item>
+         <title>Uberflip Pages: Optimize a page for mobile</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/25191067662221-Uberflip-Pages-Optimize-a-page-for-mobile</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">25191067662221</guid>
+         <pubDate>Wed, 20 Mar 2024 21:00:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Disallowed RSS feed tags</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/7129694558349-Disallowed-RSS-feed-tags</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">7129694558349</guid>
+         <pubDate>Wed, 22 Jun 2022 20:16:44 GMT</pubDate>
+      </item>
+      <item>
+         <title>Sales Assist: Frequently Asked Questions</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360058465311-Sales-Assist-Frequently-Asked-Questions</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360058465311</guid>
+         <pubDate>Sat, 13 Mar 2021 00:31:29 GMT</pubDate>
+      </item>
+      <item>
+         <title>RollWorks Personalizer: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360047021752-RollWorks-Personalizer-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360047021752</guid>
+         <pubDate>Thu, 06 Aug 2020 15:01:36 GMT</pubDate>
+      </item>
+      <item>
+         <title>Tags (Analytics &gt; Content)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044288072-Tags-Analytics-Content</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044288072</guid>
+         <pubDate>Tue, 09 Jun 2020 18:56:39 GMT</pubDate>
+      </item>
+      <item>
+         <title>Stop Uberflip Analytics From Collecting Data on a Hub</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040761132-Stop-Uberflip-Analytics-From-Collecting-Data-on-a-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040761132</guid>
+         <pubDate>Thu, 19 Mar 2020 17:24:47 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a Wistia Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360029530871-Set-Up-a-Wistia-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360029530871</guid>
+         <pubDate>Fri, 14 Jun 2019 17:27:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Generate and Send a Self-Managed SSL Certificate to Uberflip</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360018793512-Generate-and-Send-a-Self-Managed-SSL-Certificate-to-Uberflip</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360018793512</guid>
+         <pubDate>Mon, 05 Nov 2018 23:00:17 GMT</pubDate>
+      </item>
+      <item>
+         <title>Form CTA Impression/Submission Date (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044779651-Form-CTA-Impression-Submission-Date-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044779651</guid>
+         <pubDate>Wed, 10 Jun 2020 15:48:24 GMT</pubDate>
+      </item>
+      <item>
+         <title>Save Dashboard Filters in Uberflip Analytics</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040312352-Save-Dashboard-Filters-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040312352</guid>
+         <pubDate>Mon, 09 Mar 2020 18:15:07 GMT</pubDate>
+      </item>
+      <item>
+         <title>Image Migrator: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360039098812-Image-Migrator-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360039098812</guid>
+         <pubDate>Tue, 04 Feb 2020 19:16:26 GMT</pubDate>
+      </item>
+      <item>
+         <title>Use LinkedIn Conversion Tracking on Form CTAs</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028523472-Use-LinkedIn-Conversion-Tracking-on-Form-CTAs</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028523472</guid>
+         <pubDate>Mon, 27 May 2019 18:49:05 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can you prevent content from being shared with Sales Assist?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360020566312-Can-you-prevent-content-from-being-shared-with-Sales-Assist</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360020566312</guid>
+         <pubDate>Tue, 11 Dec 2018 16:25:34 GMT</pubDate>
+      </item>
+      <item>
+         <title>Link CTA Impression / Click Date (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044333592-Link-CTA-Impression-Click-Date-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044333592</guid>
+         <pubDate>Wed, 10 Jun 2020 16:24:50 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Persistent Filters in Uberflip Analytics</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360039658671-Set-Persistent-Filters-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360039658671</guid>
+         <pubDate>Mon, 10 Feb 2020 19:11:40 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bombora Personalizer: User Guide</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360037591592-Bombora-Personalizer-User-Guide</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360037591592</guid>
+         <pubDate>Mon, 16 Dec 2019 21:55:02 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a Brightcove Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360027547452-Set-Up-a-Brightcove-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360027547452</guid>
+         <pubDate>Wed, 01 May 2019 17:40:06 GMT</pubDate>
+      </item>
+      <item>
+         <title>Embed Item Tiles into a website or email</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360023119772-Embed-Item-Tiles-into-a-website-or-email</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360023119772</guid>
+         <pubDate>Wed, 13 Feb 2019 17:36:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>Page View Date (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044334072-Page-View-Date-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044334072</guid>
+         <pubDate>Wed, 10 Jun 2020 16:37:03 GMT</pubDate>
+      </item>
+      <item>
+         <title>Exclude Traffic From Specific IP Addresses in Uberflip Analytics</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360039250291-Exclude-Traffic-From-Specific-IP-Addresses-in-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360039250291</guid>
+         <pubDate>Mon, 27 Jan 2020 19:12:13 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a Vidyard Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360026763691-Set-Up-a-Vidyard-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360026763691</guid>
+         <pubDate>Thu, 11 Apr 2019 14:04:15 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set up Redirect Rules to fix broken links</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360023146291-Set-up-Redirect-Rules-to-fix-broken-links</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360023146291</guid>
+         <pubDate>Fri, 08 Feb 2019 21:27:08 GMT</pubDate>
+      </item>
+      <item>
+         <title>Session Created Date (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044783631-Session-Created-Date-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044783631</guid>
+         <pubDate>Wed, 10 Jun 2020 16:52:15 GMT</pubDate>
+      </item>
+      <item>
+         <title>Reference: Data Collection Start Dates for Uberflip Analytics</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360038311372-Reference-Data-Collection-Start-Dates-for-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360038311372</guid>
+         <pubDate>Fri, 10 Jan 2020 16:53:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a Disqus Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360026457551-Set-Up-a-Disqus-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360026457551</guid>
+         <pubDate>Fri, 05 Apr 2019 16:20:38 GMT</pubDate>
+      </item>
+      <item>
+         <title>Visitor Facts (Analytics &gt; Engagement) </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044346132-Visitor-Facts-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044346132</guid>
+         <pubDate>Wed, 10 Jun 2020 18:44:09 GMT</pubDate>
+      </item>
+      <item>
+         <title>Get started with Uberflip Analytics</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360035433571-Get-started-with-Uberflip-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360035433571</guid>
+         <pubDate>Tue, 22 Oct 2019 17:33:56 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up an Optimizely Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360025472231-Set-Up-an-Optimizely-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360025472231</guid>
+         <pubDate>Mon, 18 Mar 2019 20:57:30 GMT</pubDate>
+      </item>
+      <item>
+         <title>Avg. Scroll Depth (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044794331-Avg-Scroll-Depth-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044794331</guid>
+         <pubDate>Wed, 10 Jun 2020 18:56:48 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a Bombora Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360022588451-Set-Up-a-Bombora-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360022588451</guid>
+         <pubDate>Tue, 29 Jan 2019 17:30:36 GMT</pubDate>
+      </item>
+      <item>
+         <title>Announcement: Legacy Metrics are being retired [Jan. 2023]</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/7873902968205-Announcement-Legacy-Metrics-are-being-retired-Jan-2023</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">7873902968205</guid>
+         <pubDate>Fri, 22 Jul 2022 16:24:43 GMT</pubDate>
+      </item>
+      <item>
+         <title>Bounce (Analytics &gt; Engagement) </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044795131-Bounce-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044795131</guid>
+         <pubDate>Wed, 10 Jun 2020 19:08:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I use Items from one Hub in a different Hub?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360033910331-Can-I-use-Items-from-one-Hub-in-a-different-Hub</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360033910331</guid>
+         <pubDate>Thu, 19 Sep 2019 15:27:31 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set up a Pardot integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021942272-Set-up-a-Pardot-integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021942272</guid>
+         <pubDate>Fri, 18 Jan 2019 14:06:36 GMT</pubDate>
+      </item>
+      <item>
+         <title>Flipbooks (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044348372-Flipbooks-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044348372</guid>
+         <pubDate>Wed, 10 Jun 2020 19:24:13 GMT</pubDate>
+      </item>
+      <item>
+         <title>Is there an easy way to update an Item across many different Streams?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360034011612-Is-there-an-easy-way-to-update-an-Item-across-many-different-Streams</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360034011612</guid>
+         <pubDate>Wed, 25 Sep 2019 13:49:06 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set up a HubSpot integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021562692-Set-up-a-HubSpot-integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021562692</guid>
+         <pubDate>Wed, 09 Jan 2019 18:24:23 GMT</pubDate>
+      </item>
+      <item>
+         <title>What changes cause an imported blog post to be disconnected from the original post?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045488551-What-changes-cause-an-imported-blog-post-to-be-disconnected-from-the-original-post</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045488551</guid>
+         <pubDate>Thu, 25 Jun 2020 21:02:55 GMT</pubDate>
+      </item>
+      <item>
+         <title>Views (Analytics &gt; Engagement) </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045160151-Views-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045160151</guid>
+         <pubDate>Thu, 18 Jun 2020 14:16:34 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up an Olark Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021797911-Set-Up-an-Olark-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021797911</guid>
+         <pubDate>Wed, 09 Jan 2019 17:52:23 GMT</pubDate>
+      </item>
+      <item>
+         <title>Can I automatically notify subscribers/followers when I publish a new blog post?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360052075131-Can-I-automatically-notify-subscribers-followers-when-I-publish-a-new-blog-post</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360052075131</guid>
+         <pubDate>Tue, 03 Nov 2020 22:31:04 GMT</pubDate>
+      </item>
+      <item>
+         <title>Session (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044717872-Session-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044717872</guid>
+         <pubDate>Thu, 18 Jun 2020 14:58:24 GMT</pubDate>
+      </item>
+      <item>
+         <title>Set Up a Sumo Integration</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360019924252-Set-Up-a-Sumo-Integration</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360019924252</guid>
+         <pubDate>Fri, 23 Nov 2018 18:57:43 GMT</pubDate>
+      </item>
+      <item>
+         <title>Link CTA Engagement(Analytics &gt; Engagement) </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045163451-Link-CTA-Engagement-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045163451</guid>
+         <pubDate>Thu, 18 Jun 2020 15:31:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Why is the image cropped when I share an Item?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360023203151-Why-is-the-image-cropped-when-I-share-an-Item</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360023203151</guid>
+         <pubDate>Mon, 11 Feb 2019 16:16:25 GMT</pubDate>
+      </item>
+      <item>
+         <title>Form CTA Engagement (Analytics &gt; Engagement)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045164631-Form-CTA-Engagement-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045164631</guid>
+         <pubDate>Thu, 18 Jun 2020 15:57:21 GMT</pubDate>
+      </item>
+      <item>
+         <title>What happens if I delete a blog that I have imported into my Hub with RSS?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360021047471-What-happens-if-I-delete-a-blog-that-I-have-imported-into-my-Hub-with-RSS</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360021047471</guid>
+         <pubDate>Mon, 17 Dec 2018 18:06:05 GMT</pubDate>
+      </item>
+      <item>
+         <title>Time on Page (Analytics &gt; Engagement) </title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045362731-Time-on-Page-Analytics-Engagement</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045362731</guid>
+         <pubDate>Tue, 23 Jun 2020 19:06:29 GMT</pubDate>
+      </item>
+      <item>
+         <title>If I hide an Item, will it still appear in search results?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360040964352-If-I-hide-an-Item-will-it-still-appear-in-search-results</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360040964352</guid>
+         <pubDate>Tue, 24 Mar 2020 15:42:57 GMT</pubDate>
+      </item>
+      <item>
+         <title>Visitors (Engagement &gt; Analytics)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044920032-Visitors-Engagement-Analytics</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044920032</guid>
+         <pubDate>Tue, 23 Jun 2020 19:40:28 GMT</pubDate>
+      </item>
+      <item>
+         <title>How often does the Embed Stream Tiles widget update to show new Items?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360028384832-How-often-does-the-Embed-Stream-Tiles-widget-update-to-show-new-Items</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360028384832</guid>
+         <pubDate>Wed, 22 May 2019 15:59:07 GMT</pubDate>
+      </item>
+      <item>
+         <title>Device Type (Analytics &gt; Traffic)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044963212-Device-Type-Analytics-Traffic</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044963212</guid>
+         <pubDate>Wed, 24 Jun 2020 18:25:08 GMT</pubDate>
+      </item>
+      <item>
+         <title>How do I make images automatically expand to the width of the screen on different devices?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360026694292-How-do-I-make-images-automatically-expand-to-the-width-of-the-screen-on-different-devices</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360026694292</guid>
+         <pubDate>Mon, 15 Apr 2019 21:32:35 GMT</pubDate>
+      </item>
+      <item>
+         <title>Entry (Analytics &gt; Traffic)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360044967432-Entry-Analytics-Traffic</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360044967432</guid>
+         <pubDate>Wed, 24 Jun 2020 19:25:16 GMT</pubDate>
+      </item>
+      <item>
+         <title>Will an imported blog post be updated if the original blog post changes?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360022283332-Will-an-imported-blog-post-be-updated-if-the-original-blog-post-changes</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360022283332</guid>
+         <pubDate>Fri, 25 Jan 2019 16:43:01 GMT</pubDate>
+      </item>
+      <item>
+         <title>Why are my autoplay videos muted?</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360048856591-Why-are-my-autoplay-videos-muted</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360048856591</guid>
+         <pubDate>Thu, 27 Aug 2020 16:42:58 GMT</pubDate>
+      </item>
+      <item>
+         <title>Geography (Analytics &gt; Traffic)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045012132-Geography-Analytics-Traffic</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045012132</guid>
+         <pubDate>Thu, 25 Jun 2020 15:25:44 GMT</pubDate>
+      </item>
+      <item>
+         <title>ID Fields (Analytics &gt; Traffic)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045026952-ID-Fields-Analytics-Traffic</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045026952</guid>
+         <pubDate>Thu, 25 Jun 2020 16:59:53 GMT</pubDate>
+      </item>
+      <item>
+         <title>UTM / URL (Anlaytics &gt; Traffic)</title>
+         <link>https://help.uberflip.com/hc/en-us/articles/360045468471-UTM-URL-Anlaytics-Traffic</link>
+         
+<description><![CDATA[undefined]]></description>
+         <guid 
+isPermaLink="false">360045468471</guid>
+         <pubDate>Thu, 25 Jun 2020 17:51:12 GMT</pubDate>
+      </item>
    </channel>
 </rss>
